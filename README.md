@@ -189,3 +189,46 @@ She emphasises the importance of a two-pronged approach: first, a deep dive into
 You're tasked with examining the features launched by competitors, specifically those that allow for spending tracking and bill sharing. The team is relying on you to identify strengths we can learn from and weaknesses we can exploit. Simultaneously, you'll delve into customer usage patterns at Lloyds using available analytics data. This involves sifting through data to spot trends in spending habits, popular services, and potential pain points. Your findings will provide a clearer picture of what our customers value most and where there might be opportunities to innovate.
 
 Throughout this process, you'll be in close communication with Emma and other team members. Their expertise will be invaluable as you navigate this complex landscape. As you prepare to dive into your research, the team is here to support you. This is your chance to show what you can do and make a lasting impact. Let's get to work and turn these insights into action.
+
+
+  Task instructions: Competitive analysis and customer research
+Task introduction
+Your role is to gather and analyse information on the new digital banking features introduced by our competitors and understand how our customers are currently using Lloyds' services.
+
+Instructions
+Research competitor features:
+
+Analyse three key competitors in the digital banking space.
+Investigate the specific features they offer for tracking spending and sharing bills.
+For each feature, detail how it works, its benefits to users, and any unique aspects that differentiate it from others in the market.
+Assess the user interface (UI) and user experience (UX) of these features, noting any standout design elements.
+Analyse customer usage data:
+
+Access and review available analytics data related to customer usage of Lloyds' digital banking features.
+Identify key spending habits, such as common transaction categories, transaction frequency, and notable patterns in usage.
+Highlight any areas where customers may be experiencing difficulties or where there is potential for enhancing UX.
+Compile a Competitive Analysis Report:
+
+Summarise your findings in a detailed report.
+Include sections on competitor feature analysis, UX evaluations, and insights derived from customer usage data.
+Provide actionable recommendations for how Lloyds can enhance its digital banking features.
+Deliverable
+Submit your Competitive Analysis Report in a well-organised and professional format. This report should provide a clear and concise analysis supported by data and your critical insights.
+
+Good luck, and don't hesitate to reach out to your team members if you have questions or need guidance. Your contribution is crucial to the success of this project!
+
+Here are some resources to help you
+
+Competitor Analysis Details
+Click to download file →
+ 
+
+Customer Usage Data Report
+Click to download file →
+ 
+
+Competitive Analysis Template
+Click to download file →
+Upload your competitive analysis report.
+Select a File
+or drag it here.
