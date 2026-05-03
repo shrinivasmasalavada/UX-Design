@@ -85,3 +85,37 @@ UX Lead
 
 Let’s get started!    
 Now that you have the context, let’s start your ‘First Day’ at work!
+
+
+
+
+
+
+Task 1: Competitive analysis and customer research
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+Task overview
+Welcome! In this task, you will engage in customer research and conduct a detailed competitive analysis to inform the development of a new digital banking feature for Lloyds.
+What you'll learn
+Methods for conducting desk-based competitor research
+Techniques to gather and analyse customer usage patterns
+What you'll do
+Research Lloyds' competitor's new account features 
+Analyse customer spending habits through available analytics data
+Message from Lloyds Banking Group
