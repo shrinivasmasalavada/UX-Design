@@ -47,6 +47,9 @@ Emma is the UX lead and is responsible for overseeing the team's projects, ensur
 
 
 Project briefing
+
+
+
 Message from Emma, UX lead:
 
 Hello, and welcome to the UX Design team at Lloyds Banking Group! We're thrilled to have you join us as we embark on an exciting and critical project. As a junior UX designer, you'll be diving right into a real-world challenge that reflects the fast-paced and innovative environment of the banking industry.
