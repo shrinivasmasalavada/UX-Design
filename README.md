@@ -158,6 +158,23 @@ Collect customer feedback: Look for customer reviews, testimonials, and ratings.
 Analyse strengths and weaknesses: Compile your findings to identify each competitor's strengths and weaknesses. Understanding these can help you propose solutions that address gaps in the market.
 Applying your findings
 
+
+Techniques to gather and analyse customer usage patterns
+Here, we will explore techniques for gathering and analysing customer usage patterns, which can provide valuable insights for your project.
+
+Data collection methods:
+
+Website and app analytics: Analytics tools track how users interact with a website or app. Key metrics include page views, click paths, session durations, and user flows. These metrics help identify which features are most popular and how users navigate through the product.
+Surveys and questionnaires: Surveys are a direct method of gathering user feedback. By asking targeted questions, you can learn about user preferences, satisfaction levels, and areas of difficulty. Surveys can be performed through a website or email, or be integrated into an app.
+User interviews: Conducting interviews with users provides deeper insights into their experiences and behaviours. This qualitative method allows you to explore specific issues in detail and gather nuanced feedback that quantitative data might miss.
+Usage logs: These logs capture detailed records of user actions within a system. For instance, they can show how often a feature is used, at what times, and in what context. Analysing this data helps identify trends and patterns in user behaviour.
+Analysing usage data:
+
+Segmentation: Divide users into segments based on different criteria such as age, location, or spending habits. This allows you to understand how different groups use the product differently and tailor features to meet diverse needs.
+Identifying patterns: Look for patterns in the data, such as peak usage times or frequent feature use. Patterns can highlight a product's most valued aspects and potential areas for improvement.
+Comparative analysis: Compare the behaviour of different user segments or time periods to understand changes and trends. For example, analyse how usage patterns change after introducing a new feature.
+Behavioural insights: Derive insights about why users behave in certain ways. This involves interpreting data in the context of user needs and motivations, which can inform feature development and enhancement.
+
 Once you have gathered all this information, the next step is to analyse it to find opportunities for improvement or innovation. For instance, if you discover that a competitor's feature is popular but lacks certain functionalities, you can suggest that Lloyds develop a similar but improved feature.
 
 By mastering these methods, you'll be able to conduct thorough and effective competitor research, which is crucial for developing competitive and innovative digital banking feature
