@@ -81,3 +81,7 @@ Best regards,
 
 Emma 
 UX Lead 
+
+
+Let’s get started!    
+Now that you have the context, let’s start your ‘First Day’ at work!
