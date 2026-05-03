@@ -114,6 +114,36 @@ Task overview
 Welcome! In this task, you will engage in customer research and conduct a detailed competitive analysis to inform the development of a new digital banking feature for Lloyds.
 What you'll learn
 Methods for conducting desk-based competitor research
+
+Task 1: Competitive analysis and customer research
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+Let's get started
+Welcome to your first task! This project offers you a significant opportunity to make a tangible impact on our digital banking services. Emma, our UX lead, has set the stage for an exciting challenge that requires both analytical thinking and creative problem-solving.
+
+Emma opens your team briefing, "Our competitors have raised the bar with their new feature that allows seamless tracking of spending and bill sharing. We need to respond swiftly and thoughtfully. Our task is not only to match but to surpass this offering by understanding our customers better and identifying unique opportunities for innovation."
+
+Your role is to dive into the data, understand the market, and bring fresh insights to the table. You’ll start with a thorough competitive analysis, examining what our competitors are offering, and then move on to studying our customers' spending habits. This research is crucial, as it will inform the features and improvements we propose.
+
+The team is excited but aware of the stakes. Senior leadership is closely monitoring our progress, underscoring the importance of delivering a solution that enhances customer satisfaction and strengthens our market position. Your work here will provide the foundation for our next steps, so thoroughness and creativity are key.
+
+Remember, this is a collaborative effort. As you gather data and develop your insights, keep in mind that every finding contributes to shaping a feature that could redefine digital banking for our customers. Let's get started!
 Techniques to gather and analyse customer usage patterns
 What you'll do
 Research Lloyds' competitor's new account features 
