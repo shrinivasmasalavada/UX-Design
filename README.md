@@ -11,3 +11,29 @@ Your Goal
 Your primary objective is to conduct a competitive analysis and gather customer insights to inform the development of the new feature.
 You will research competitor offerings, analyse customer data to understand spending habits, and provide recommendations for improving Lloyds' digital services.
 Your work will culminate in a Competitive Analysis Report detailing your findings and suggestions for feature enhancements.
+
+
+Program Scenario
+
+1
+
+2
+
+3
+
+4
+
+5
+Your team at Lloyds Banking Group
+A multidisciplinary team responsible for enhancing the digital banking experience by designing solutions that meet customer needs and ensure competitiveness in the market.
+UX Design team
+Who You Are
+YOU
+Shrinivas
+Junior UX designer
+A junior team member focused on conducting research, analysing customer behaviour, and assisting in the design and development of innovative digital banking features.
+Your Team
+Manager
+Emma
+UX lead
+Emma is the UX lead and is responsible for overseeing the team's projects, ensuring that all digital solutions are user-centred, innovative, and aligned with Lloyds' business goals.
