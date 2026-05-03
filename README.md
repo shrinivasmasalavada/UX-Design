@@ -17,13 +17,7 @@ Program Scenario
 
 1
 
-2
 
-3
-
-4
-
-5
 Your team at Lloyds Banking Group
 A multidisciplinary team responsible for enhancing the digital banking experience by designing solutions that meet customer needs and ensure competitiveness in the market.
 UX Design team
@@ -97,25 +91,39 @@ Task 1: Competitive analysis and customer research
 
 2
 
-3
 
-4
-
-5
-
-6
-
-7
-
-8
-
-9
 Task overview
 Welcome! In this task, you will engage in customer research and conduct a detailed competitive analysis to inform the development of a new digital banking feature for Lloyds.
 What you'll learn
 Methods for conducting desk-based competitor research
 
 Task 1: Competitive analysis and customer research
+
+1
+
+2
+
+3
+
+
+Let's get started
+Welcome to your first task! This project offers you a significant opportunity to make a tangible impact on our digital banking services. Emma, our UX lead, has set the stage for an exciting challenge that requires both analytical thinking and creative problem-solving.
+
+Emma opens your team briefing, "Our competitors have raised the bar with their new feature that allows seamless tracking of spending and bill sharing. We need to respond swiftly and thoughtfully. Our task is not only to match but to surpass this offering by understanding our customers better and identifying unique opportunities for innovation."
+
+Your role is to dive into the data, understand the market, and bring fresh insights to the table. You’ll start with a thorough competitive analysis, examining what our competitors are offering, and then move on to studying our customers' spending habits. This research is crucial, as it will inform the features and improvements we propose.
+
+The team is excited but aware of the stakes. Senior leadership is closely monitoring our progress, underscoring the importance of delivering a solution that enhances customer satisfaction and strengthens our market position. Your work here will provide the foundation for our next steps, so thoroughness and creativity are key.
+
+Remember, this is a collaborative effort. As you gather data and develop your insights, keep in mind that every finding contributes to shaping a feature that could redefine digital banking for our customers. Let's get started!
+Techniques to gather and analyse customer usage patterns
+What you'll do
+Research Lloyds' competitor's new account features 
+Analyse customer spending habits through available analytics data
+Message from Lloyds Banking Group
+
+
+  Task 1: Competitive analysis and customer research
 
 1
 
@@ -134,18 +142,22 @@ Task 1: Competitive analysis and customer research
 8
 
 9
-Let's get started
-Welcome to your first task! This project offers you a significant opportunity to make a tangible impact on our digital banking services. Emma, our UX lead, has set the stage for an exciting challenge that requires both analytical thinking and creative problem-solving.
+Methods for conducting competitor research
+Before you start working on your project, it's important to build a solid foundation in the key topics you'll need to understand. This preparation will ensure you have the tools and knowledge necessary to approach your tasks with confidence and skill.
 
-Emma opens your team briefing, "Our competitors have raised the bar with their new feature that allows seamless tracking of spending and bill sharing. We need to respond swiftly and thoughtfully. Our task is not only to match but to surpass this offering by understanding our customers better and identifying unique opportunities for innovation."
+Understanding competitor research
 
-Your role is to dive into the data, understand the market, and bring fresh insights to the table. You’ll start with a thorough competitive analysis, examining what our competitors are offering, and then move on to studying our customers' spending habits. This research is crucial, as it will inform the features and improvements we propose.
+Competitor research is the process of gathering and analysing information about other companies offering similar products or services. It helps you understand what makes competitors successful and identify where your company can improve or differentiate itself.
 
-The team is excited but aware of the stakes. Senior leadership is closely monitoring our progress, underscoring the importance of delivering a solution that enhances customer satisfaction and strengthens our market position. Your work here will provide the foundation for our next steps, so thoroughness and creativity are key.
+Steps in competitor research:
 
-Remember, this is a collaborative effort. As you gather data and develop your insights, keep in mind that every finding contributes to shaping a feature that could redefine digital banking for our customers. Let's get started!
-Techniques to gather and analyse customer usage patterns
-What you'll do
-Research Lloyds' competitor's new account features 
-Analyse customer spending habits through available analytics data
-Message from Lloyds Banking Group
+Identify competitors: Start by determining who your competitors are. These are companies offering similar products or services that target the same customer base. For this project, you will focus on digital banking services.
+Analyse competitor offerings: Look into what features your competitors provide. For example, if another bank offers a feature that helps users track their spending, examine how it works, what data it provides, and how it benefits users. This step involves exploring competitors' websites and apps, and any available customer reviews.
+Evaluate market positioning: Understand how competitors position themselves in the market. This includes their branding, messaging, and unique selling propositions (USPs). Ask yourself what makes each competitor stand out and why customers might choose them over others.
+Collect customer feedback: Look for customer reviews, testimonials, and ratings. Client feedback delivers useful insights about what users do and don't like about the competitor's services. Online forums, social media, and review sites are good sources for this information.
+Analyse strengths and weaknesses: Compile your findings to identify each competitor's strengths and weaknesses. Understanding these can help you propose solutions that address gaps in the market.
+Applying your findings
+
+Once you have gathered all this information, the next step is to analyse it to find opportunities for improvement or innovation. For instance, if you discover that a competitor's feature is popular but lacks certain functionalities, you can suggest that Lloyds develop a similar but improved feature.
+
+By mastering these methods, you'll be able to conduct thorough and effective competitor research, which is crucial for developing competitive and innovative digital banking feature
