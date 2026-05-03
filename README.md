@@ -37,3 +37,44 @@ Manager
 Emma
 UX lead
 Emma is the UX lead and is responsible for overseeing the team's projects, ensuring that all digital solutions are user-centred, innovative, and aligned with Lloyds' business goals.
+
+
+
+
+
+
+
+
+
+Project briefing
+Message from Emma, UX lead:
+
+Hello, and welcome to the UX Design team at Lloyds Banking Group! We're thrilled to have you join us as we embark on an exciting and critical project. As a junior UX designer, you'll be diving right into a real-world challenge that reflects the fast-paced and innovative environment of the banking industry.
+
+Project context:
+
+Recently, a major competitor launched a groundbreaking feature that allows customers to seamlessly track spending and share bills, significantly enhancing their user experience (UX). User Experience (UX) Design is the process of creating products that provide meaningful and relevant experiences to users, focusing on the overall feel of the product and ensuring it is easy to use and meets the users' needs. It involves understanding user behaviors, creating wireframes or prototypes, and continuously refining the design based on user feedback to enhance usability and satisfaction.T his has put pressure on us to respond quickly with a compelling feature of our own to maintain our competitive edge. The impetus for this project comes from both stakeholders' eagerness to innovate and external market forces that demand we stay ahead of the curve.
+
+Our task involves understanding our customers and identifying gaps and opportunities in our current offerings.
+
+Key concepts:
+
+Competitive analysis: Understanding what our competitors are doing well and identifying opportunities to differentiate ourselves. This involves analysing features, user interfaces (UIs), and customer feedback.
+
+Customer research: Gathering insights directly from our users to understand their needs, behaviours, and pain points. This allows us to design features that truly resonate with our customers.
+
+Project requirements and outcomes:
+
+Your work will focus on conducting a comprehensive competitive analysis and engaging in deep customer research. You will be expected to:
+
+Investigate and report on the new features introduced by our competitor, focusing on how they meet customer needs.
+Analyse available customer data to uncover spending patterns and behaviours that can inform our design decisions.
+Present a detailed Competitive Analysis Report that outlines your findings and provides actionable recommendations for our new feature development.
+This project is crucial not only for our team but for the broader organisation. Our senior leadership is closely monitoring our progress and is eager to see innovative solutions that will help us reclaim our position as a leader in digital banking. The team is enthusiastic yet aware of the high stakes; your fresh perspective and insights will be invaluable in this effort.
+
+Let's bring our best ideas forward and make a significant impact. Your journey in UX design starts here, and we can't wait to see what you'll contribute!
+
+Best regards,
+
+Emma 
+UX Lead
